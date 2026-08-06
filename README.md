@@ -2,7 +2,7 @@
 
 A Python-based pipeline that ingests streaming stock price data, applies rolling statistical analysis to detect abnormal price movements in real time, and visualizes results in an interactive dashboard.
 
-![Dashboard Screenshot](dashboard_screenshot.png)
+![Dashboard Screenshot](newplot.png)
 
 ## Overview
 
